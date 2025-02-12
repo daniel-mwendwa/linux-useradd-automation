@@ -16,9 +16,14 @@ Manually adding users can be time-consuming, error-prone, and inconsistent. This
 - Quickly provision multiple users
 - Reduce manual effort and potential mistakes
 
-## Usage
-
-### 1. Clone the Repository
-```bash
-git clone https://github.com/your-username/linux-user-automation.git
-cd linux-user-automation
+## Add Usernames
+Create a users.txt file and add usernames (one per line):
+## Run the Script
+Execute the script with sudo privileges
+sudo bash create_users.sh
+##  Check the Generated Credentials
+User credentials will be saved in user_credentials.txt
+## Security Considerations
+Store user_credentials.txt securely or delete it after distributing passwords.
+Modify the password generation logic if you need stronger security.
+Ensure the script is executed with appropriate permissions.
