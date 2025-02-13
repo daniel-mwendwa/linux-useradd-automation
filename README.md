@@ -10,7 +10,7 @@ This script automates the creation of Linux users with strong, yet relatable pas
 - Stores credentials in a secure file (`user_credentials.txt`)
 - Saves sysadmins time by automating repetitive user creation tasks
 
-## Why Automate User Creation?
+## Why Automate User Creation?  
 Manually adding users can be time-consuming, error-prone, and inconsistent. This script helps system administrators:
 - Maintain uniform security policies
 - Quickly provision multiple users
