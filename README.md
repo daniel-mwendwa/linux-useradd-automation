@@ -20,7 +20,7 @@ Manually adding users can be time-consuming, error-prone, and inconsistent. This
 Create a `users.txt` file and add usernames (one per line):
 ## Run the Script
 Execute the script with sudo privileges
-`sudo bash create_users.sh`
+`sudo bash create_users.sh` or `./create_users.sh`
 ##  Check the Generated Credentials
 User credentials will be saved in `user_credentials.txt`
 ## Security Considerations
