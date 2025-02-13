@@ -17,12 +17,12 @@ Manually adding users can be time-consuming, error-prone, and inconsistent. This
 - Reduce manual effort and potential mistakes
 
 ## Add Usernames
-Create a 'users.txt' file and add usernames (one per line):
+Create a `users.txt` file and add usernames (one per line):
 ## Run the Script
 Execute the script with sudo privileges
-'sudo bash create_users.sh'
+`sudo bash create_users.sh`
 ##  Check the Generated Credentials
-User credentials will be saved in 'user_credentials.txt'
+User credentials will be saved in `user_credentials.txt`
 ## Security Considerations
 Store user_credentials.txt securely or delete it after distributing passwords.
 Modify the password generation logic if you need stronger security.
