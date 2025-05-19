@@ -4,7 +4,7 @@
 This script automates the creation of Linux users with strong, yet relatable passwords. It ensures efficiency and security by generating passwords based on a structured pattern while keeping track of user credentials.
 
 ## Features
-- Reads usernames from a file (`users.txt`)
+- Reads usernames from a file (`users.txt`)  
 - Generates strong, semi-memorable passwords  
 - Creates new users and assigns passwords securely   
 - Stores credentials in a secure file (`user_credentials.txt`)
