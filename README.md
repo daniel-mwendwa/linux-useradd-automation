@@ -1,6 +1,6 @@
 # Linux User Automation
  
-## Overview 
+## Overview
 This script automates the creation of Linux users with strong, yet relatable passwords. It ensures efficiency and security by generating passwords based on a structured pattern while keeping track of user credentials.
 
 ## Features
